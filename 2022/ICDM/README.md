@@ -12,5 +12,4 @@ location = {Orlando, FL, USA},
 month = {November 28 - December 1},
 year = {2022}
 }
-
 ```
