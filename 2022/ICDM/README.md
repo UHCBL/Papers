@@ -3,7 +3,7 @@
 
 To cite ```ecfxanon``` in your publications, please use the following BibTeX entry:
 
-```
+```bibtex
 @inproceedings{GursoyKakadiaris2022ICDM,
 title = {Equal Confusion Fairness: Measuring Group-Based Disparities in Automated Decision Systems},
 booktitle = {Proc. IEEE International Conference on Data Mining International Sustainable AI Workshop},
